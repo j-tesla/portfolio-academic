@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/72d174f6-5d60-4a98-b8f1-c63cf20aa1e2/deploy-status)](https://app.netlify.com/sites/jayanth-psy/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d3138e88-ee99-490d-8b67-7db37c8b7b3b/deploy-status)](https://app.netlify.com/sites/nifty-swirles-16a44e/deploys)
 
 # Static Portfolio website
 
