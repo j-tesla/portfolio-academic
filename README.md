@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/72d174f6-5d60-4a98-b8f1-c63cf20aa1e2/deploy-status)](https://app.netlify.com/sites/jayanth-psy/deploys)
 
-# Static Portifolio website
+# Static Portfolio website
 
 <p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
 
