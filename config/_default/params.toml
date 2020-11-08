@@ -117,7 +117,7 @@ contact_links = [
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  {icon = "linkedin", icon_pack = "fab", name = "Connect with Me", link = https://www.linkedin.com/in/jayanth-p-b3924812a/"}
+  {icon = "linkedin", icon_pack = "fab", name = "Connect with Me", link = "https://www.linkedin.com/in/jayanth-p-b3924812a/"}
   ]
 
 ############################
@@ -265,7 +265,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = ""
-  zoom = 15
+  zoom = 12
 
 ############################
 ## Marketing
