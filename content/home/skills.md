@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python-logo-generic"
+  icon = "python"
   icon_pack = "custom"
   name = "Python"
   description = "Experienced with the language as well as with several third party libraries"
