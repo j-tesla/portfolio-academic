@@ -33,29 +33,26 @@ date_format = "Jan 2006"
   organization_url = "https://ibhubs.co/"
   title = "Python and OOP Concepts"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = "https://10xiitian.ibhubs.co/certificate/GJBPRQDBXW"
   date_start = "2020-06-01"
   date_end = "2020-07-25"
-  description = "https://10xiitian.ibhubs.co/certificate/GJBPRQDBXW"
+  description = """Programming Constructs & Built-in Data Structures in Python
+Working with Python Standard Library
+Building modular programs with Modules and Packages
+Integrating Third-party Libraries into your Python Projects
+Object-Oriented Programming Constructs in Python
+Developing game-characters with OOP principles in a fun real-world gaming project"""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "C++ For C Programmers, Part A"
+  url = "https://www.coursera.org/learn/python-data-analysis"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/QUTPKRYQEFJP"
+  date_start = "2020-04-01"
+  date_end = "2020-05-27"
+  description = "Learnt to take tabular data, clean it, manipulate it, and run basic inferential statistical analyses with pandas in python."
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+
 
 +++
