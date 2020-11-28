@@ -36,12 +36,12 @@ date_format = "Jan 2006"
   certificate_url = "https://10xiitian.ibhubs.co/certificate/GJBPRQDBXW"
   date_start = "2020-06-01"
   date_end = "2020-07-25"
-  description = """Programming Constructs & Built-in Data Structures in Python
-Working with Python Standard Library
-Building modular programs with Modules and Packages
-Integrating Third-party Libraries into your Python Projects
-Object-Oriented Programming Constructs in Python
-Developing game-characters with OOP principles in a fun real-world gaming project"""
+  description = """Programming Constructs & Built-in Data Structures in Python.
+Working with Python Standard Library.
+Building modular programs with Modules and Packages.
+Integrating Third-party Libraries into your Python Projects.
+Object-Oriented Programming Constructs in Python.
+Developing game-characters with OOP principles in a fun real-world gaming project."""
 
 [[item]]
   organization = "Coursera"
