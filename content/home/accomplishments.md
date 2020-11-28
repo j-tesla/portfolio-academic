@@ -21,12 +21,24 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Introduction to Data Science in Python"
+  url = "https://www.coursera.org/learn/python-data-analysis"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/GTP6GYVKZE5S"
+  date_start = "April 2020"
+  date_end = "May 2020"
+  description = """This course will introduce the learner to the basics of the python programming environment, including fundamental python programming techniques such as lambdas, reading and manipulating csv files, and the numpy library. The course will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the Series and DataFrame as the central data structures for data analysis, along with tutorials on how to use functions such as groupby, merge, and pivot tables effectively. By the end of this course, students will be able to take tabular data, clean it, manipulate it, and run basic inferential statistical analyses. 
+
+This course should be taken before any of the other Applied Data Science with Python courses: Applied Plotting, Charting & Data Representation in Python, Applied Machine Learning in Python, Applied Text Mining in Python, Applied Social Network Analysis in Python."""
+  
+[[item]]
+  organization = "iB Hubs"
+  organization_url = "https://ibhubs.co/"
+  title = "Python and OOP Concepts"
   url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  date_start = "July 2020"
+  date_end = "August 2020"
+  description = "https://10xiitian.ibhubs.co/certificate/GJBPRQDBXW"
 
 [[item]]
   organization = "edX"
