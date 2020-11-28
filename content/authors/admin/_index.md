@@ -3,8 +3,9 @@ role: Computer Science and Engineering Undergraduate
 bio: My research interests include machine learning, software development and
   programmable matter.
 interests:
-  - Artificial Intelligence
+  - Automation
   - Software Development
+  - Artificial Intelligence
   - Algorithms and Data Structures
 social:
   - icon: envelope
