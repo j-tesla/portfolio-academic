@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Junior Coordinator"
-  company = "NationalStudents' Space Challenge"
+  company = "National Students' Space Challenge"
   company_url = "http://nssc.in/"
   location = "IIT Kharagpur"
   date_start = "2019-08-01"
