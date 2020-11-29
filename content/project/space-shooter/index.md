@@ -6,7 +6,7 @@ draft: false
 featured: true
 external_link: https://github.com/j-tesla/space-shooter
 image:
-  filename: featured
+  filename: space-shooter.png
   focal_point: Smart
   preview_only: false
 ---
