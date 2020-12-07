@@ -18,19 +18,19 @@ subtitle = ""
   icon = "python"
   icon_pack = "custom"
   name = "Python"
-  description = "Experienced with the language as well as with several third party libraries"
+  description = "Experienced with the language features as well as with several third party libraries"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "c++"
+  icon_pack = "custom"
+  name = "C++"
+  description = "Familiar with OOP, STL and other general features"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "c"
+  icon_pack = "custom"
+  name = "C"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
