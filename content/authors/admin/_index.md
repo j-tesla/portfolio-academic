@@ -26,7 +26,7 @@ organizations:
 education:
   courses:
     - institution: Indian Institute of Technology - Kharagpur
-      year: 2017
+      year: 2023
       course: Bachelor of Technology in Computer Science and Engineering
 superuser: true
 user_groups:
